@@ -42,6 +42,7 @@ public class Trafic extends JFrame implements ActionListener {
         p.add(t4);
         p1.add(b1);
         p1.add(b2);
+        p.setBackground(Color.black);
         f.add(p);
         f.add(p1, BorderLayout.SOUTH);
         f.setSize(300, 300);
